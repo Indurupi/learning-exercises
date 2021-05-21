@@ -1,0 +1,20 @@
+1. mixins - has common methods
+
+2. inheriting methods from object
+
+3. object.create and object.assign
+
+4. prototypal inheritance - know to apply 
+
+5. let obj = [ {id:3,name:'1' } , {id: 1, name: 'r' } , { id: 2, name: 'f' } ]
+
+6. better explanation for concepts - promises,
+async, await, defer, hoisting, handling multiple promises
+
+7. higher order, function currying, closures
+
+8. modularization in js
+
+9. 
+
+
